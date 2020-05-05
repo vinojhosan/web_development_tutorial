@@ -1,0 +1,29 @@
+/***************************TAG SELECTORS*************************/
+
+h1 {
+  font-size: 50px;
+  color: red;
+}
+
+img:hover{
+background-color: grey;
+}
+
+/**************************CLASS SELECTORS**************************/
+
+.strawberry{
+  background-color: #eff3c6 ;
+}
+
+.watermelon{
+  background-color: #ececec;
+}
+
+.circular{
+  border-radius:100%;
+}
+
+/**************************ID SELECTORS**************************/
+#heading{
+  color:green;
+}
