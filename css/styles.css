@@ -94,7 +94,7 @@ p {
   margin-top: 50px;
   margin-bottom: 50px;
   position: relative;
-  right: 500px;
+  left: -450px;
 }
 
 .circular {
