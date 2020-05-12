@@ -51,11 +51,11 @@ p {
 }
 
 .para {
-  margin: auto;
-  width: 600px;
+  margin: auto 300px;
+  line-height: 2;
   position: relative;
-  left: 400px;
-  right: 400px;
+  /* left: 400px; */
+  /* right: 400px; */
 }
 
 .top {
@@ -68,12 +68,6 @@ p {
 
 .middle-container {
   margin-top: 50px;
-}
-
-.bottom-container {}
-
-.mountain {
-  background-color: #faf4f4;
 }
 
 .square {
